@@ -1,7 +1,9 @@
 # JavaSE-Flowchart-Editor
+
 Java SE GUI project with AWT and Swing.
 Used design pattern - Composite, Memento, Prototype.
 Application functions(operations):
+
 	1.Save scheme like *.png;
 	2.Create new file (clear current file);
 	3.Add element, add with resizing, add arrow beetween two elements;
